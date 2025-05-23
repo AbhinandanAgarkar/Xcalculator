@@ -1,0 +1,10 @@
+.calculator{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.result{
+  margin: 10px;
+  font-size: larger;
+}
