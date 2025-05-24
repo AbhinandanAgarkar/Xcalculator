@@ -84,7 +84,7 @@ function App() {
 
     <h1>React Calculator</h1>
 
-    <input value={input} onChange={handleChange}/>
+    <input type="text" value={input} onChange={handleChange}/>
 
     <div className='result'>{result}</div>
     
